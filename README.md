@@ -12,3 +12,5 @@ verified every change with the test suite below, and opened a pull request.
 pip install -r requirements.txt
 python -m pytest
 ```
+
+**Result:** [pull request #1](https://github.com/vik-bit/apishift-demo/pull/1), opened by APIShift. Tests went from 4 failing to 0 on pandas 2.2.
